@@ -14,3 +14,6 @@ Demonstration
 
 ![Alt-text](https://github.com/cyraneous/hwk-11-note-taker/blob/master/HWK-11.mp4)
 
+Heroku hosted link for app seems to have intermittent functionality:
+
+https://damp-earth-04679.herokuapp.com/
